@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+    background-color: #000000;
+  }
+
+img {
+    width: 600px; /* Cambiar el ancho de la imagen */
+    height: 280px; /* Mantener la proporción */
+    border: 2px solid rgb(254, 255, 254); /* Añadir un borde negro de 2px */
+    border-radius: 10px; /* Añadir bordes redondeados */
+    opacity: 0.7; /* Cambiar la opacidad de la imagen */
+    max-width: 100%; /* La imagen se ajustará al ancho del contenedor */
+}
+  
+.div1 {
+    width: 400px; /* Ancho deseado para el div */
+    padding: 20px; /* Espaciado interno */
+    height: auto; /* Altura automática según el contenido */
+    margin: 0 auto; /* Margen automático en la izquierda y derecha */
+    border: 2px solid rgba(254, 255, 254, 0.673); /* Añadir un borde negro de 2px */
+    border-radius: 10px; /* Radio de 10px para redondear los bordes */
+}
+
+h3{
+    color: #bb6d14;
+    font-family: Arial, sans-serif;
+
+}
+
+  h1 {
+    color: #d6cdc3;
+    font-family: Arial, sans-serif;
+  }
+  
+  p {
+    color: #d6cdc3;
+  }
+
+  input {
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    background-color:  #965000;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;  
+  }
+  
+  #mensaje {
+    color:  #d6cdc3;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
